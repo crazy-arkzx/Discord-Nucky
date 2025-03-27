@@ -4,4 +4,6 @@
 _Você Roda o Script e Coloca o Token do bot que vai Nuckar o Servidor Desejado_
 
 # COMO USAR
-```python main.py```
+```
+python main.py
+```
